@@ -1,0 +1,1 @@
+# Chinese-Translation-tag-to-Booru-tag-autocompletion
