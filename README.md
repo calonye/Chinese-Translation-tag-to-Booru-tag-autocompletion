@@ -5,3 +5,8 @@
 - Booru-tag-autocompletion 插件说明：https://github.com/DominikDoom/a1111-sd-webui-tagcomplete/blob/main/README_ZH.md
 
 ## 文件更新至 `extensions/tag-autocomplete/tags/ `路径下；
+-
+-
+-
+-
+-
